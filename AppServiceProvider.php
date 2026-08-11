@@ -11,7 +11,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
-        Log::info('AppServiceProvider registered');
+        Log::info('AppServiceProvider registered')
     }
 
     /**
